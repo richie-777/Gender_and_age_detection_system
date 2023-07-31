@@ -21,6 +21,10 @@ Click here to download Dataset - https://www.kaggle.com/datasets/jangedoo/utkfac
 * Data Visualization
 
 * Model Performance
+  
+* Testing the model
+
+* Model Pickling (For further use) 
 
 # Process of CNN (Convoluted Neural Networks) from Top-Bottom:
 
